@@ -70,8 +70,8 @@ def slider():
         x=mouseX
     if x < 25:
         x = 25
-    if x > 505:
-        x = 505
+    if x > 480:
+        x = 480
     
 def powerup():
     fill(255,0,230)
